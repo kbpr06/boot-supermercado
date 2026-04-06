@@ -1,0 +1,5 @@
+{
+  "name": "bot-supermercado/telegram-bot",
+  "description": "Bot de Telegram para ubicar productos en pasillos de supermercado",
+  "require": {}
+}
