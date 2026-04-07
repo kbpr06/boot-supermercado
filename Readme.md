@@ -76,9 +76,9 @@ El flujo del sistema es el siguiente:
    git clone https://github.com/tu-usuario/bot-supermercado.git
 2. Desplegar el proyecto en Railway o servidor compatible con PHP
 3. Configurar variable de entorno:
-   TELEGRAM_BOT_TOKEN=TU_TOKEN
+   TELEGRAM_BOT_TOKEN=8471614106:AAGPb4ZGWU0GEvxRgWJy_5UzuTDyrHpcn2M
 4. Configurar el webhook:
-   https://api.telegram.org/botTU_TOKEN/setWebhook?url=TU_URL
+   https://api.telegram.org/bot8471614106:AAGPb4ZGWU0GEvxRgWJy_5UzuTDyrHpcn2M/setWebhook?url=web-production-4fdc5.up.railway.app
 5. Probar el bot desde Telegram
 
 ## ⚠️ Consideraciones
@@ -96,7 +96,9 @@ Agregar más productos y categorías
 Proyecto desarrollado por:
 
 Karla Pesce
+
 Jaime Codoceo
+
 Sergio Molina
 
 ## 📚 Contexto académico
